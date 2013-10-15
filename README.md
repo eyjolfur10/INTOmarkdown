@@ -25,9 +25,13 @@ I have though often worked on group projects in SVN and had no problem then. It'
 
 ## 4. Uppsettur hugbúnaður
 
-VLC      - GNU General Public License - http://www.videolan.org/vlc/download-sources.html
-Pidgin   - GNU General Public License - http://pidgin.im/download/source/ 
-Audacity - GNU General Public License - http://audacity.sourceforge.net/download/source
+
+<ul>
+<li>VLC      - GNU General Public License - http://www.videolan.org/vlc/download-sources.html.</li>
+<li>Pidgin   - GNU General Public License - http://pidgin.im/download/source/ .</li>
+<li>Audacity - GNU General Public License - http://audacity.sourceforge.net/download/source.</li>
+</ul>
+
 
 
 ## 5. Unnið með Git (2. hluti)
