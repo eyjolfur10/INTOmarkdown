@@ -12,8 +12,14 @@ I Intalled Ubuntu 13.04 through VMware Fusion since I had already VMWare Fusion 
 
 
 By using the two commands. I had no problems.
-sudo apt-get install vim
-sudo apt-get install git-core
+
+
+<ul>
+<li>sudo apt-get install vim.</li>
+<li>sudo apt-get install git-core.</li>
+</ul>
+
+
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
