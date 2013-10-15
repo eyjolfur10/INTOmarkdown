@@ -25,8 +25,13 @@ I have though often worked on group projects in SVN and had no problem then. It'
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+VLC      - GNU General Public License - http://www.videolan.org/vlc/download-sources.html
+Pidgin   - GNU General Public License - http://pidgin.im/download/source/ 
+Audacity - GNU General Public License - http://audacity.sourceforge.net/download/source
+
 
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+
+Well then I'm done
