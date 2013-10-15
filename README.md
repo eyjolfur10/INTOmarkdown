@@ -20,6 +20,9 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
+It went well forking the NIM.cpp. Since I was the only one in my group I was the only one to edit it (and Daniel Brandur)
+I have though often worked on group projects in SVN and had no problem then. It's easy to resolve a conflict comes up.
+
 ## 4. Uppsettur hugbúnaður
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
