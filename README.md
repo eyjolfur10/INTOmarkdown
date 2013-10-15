@@ -10,6 +10,11 @@ Eyjolfur Ingi Eyjolfsson
 
 I Intalled Ubuntu 13.04 through VMware Fusion since I had already VMWare Fusion installed on my computer. It went very smoothly and had no problems.
 
+
+
+![Linux](http://i.imgur.com/IkizeAm.png "Linux")
+
+
 ## 2. Uppsetning á vim && git
 
 >Lýsið hvernig gekk að setja upp þessi tól.
