@@ -6,7 +6,7 @@ Eyjolfur Ingi Eyjolfsson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+I Intalled Ubuntu 13.04 through VMware Fusion since I had already VMWare Fusion installed on my computer. It went very smoothly and had no problems.
 
 ## 2. Uppsetning á vim && git
 
