@@ -10,8 +10,10 @@ I Intalled Ubuntu 13.04 through VMware Fusion since I had already VMWare Fusion 
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
 
+By using the two commands. I had no problems.
+sudo apt-get install vim
+sudo apt-get install git-core
 ## 3. Unnið með Git (1. hluti)
 
 Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
